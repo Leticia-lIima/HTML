@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang "br"> 
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="widht=device-width", initial-scale="1.0">
+        <meta name="description" content="Códigos HTML">
+        
+    </head>
+
+    <body>
+
+<title>Glossário</title>
+
+<h1>Estrutura <abbr title="hypertext markup language">HTML</h1>
+
+<dl>
+
+    <dt><strong>&lt;a href&gt;</dt></strong>
+        <dd>Usado para referenciar um link, é adicionado o link clicável na pagina.</dd>
+
+
+    <dt><strong>&lt;img src&gt;</dt></strong>
+
+        <dd>Usado para adicionar uma imagem na página.</dd>
+    <dt><strong>&lt;code&gt;</dt></strong>
+        <dd>Usado para demonstrar o código na página somente como demonstração.</dd>
+    <dt><strong>&lt;Table&gt;</dt></strong>
+        <dd>É usado para fazer tabelas na página. Dentro da tag é incluido as informações da tabela</dd>
+   <dt><strong>&lt;li&gt;</strong></dt>
+    <dd>Usado para criar listas ordenadas na página.</dd>
+    <dt><strong>&lt;blockquote cite&gt;</strong></dt>
+        <dd>Usado para fazer citações em textos dentro da página.</dd>
+    <dt><strong>&lt;em&gt;</strong></dt>
+        <dd>Usado em textos para deixar em itálico</dd>
+</dl>
+    </body>
+</html>
